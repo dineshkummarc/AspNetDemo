@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDB", "http://localhost/WebAppDB/WebAppDB.csproj", "{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebAppUtil", "WebAppUtil\WebAppUtil.vcproj", "{226F247A-ACB7-47D3-BEA5-AC55FF451E43}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebSetup", "WebSetup\WebSetup.vdproj", "{6010BAF8-D31B-4ADD-8E1B-9B895EB4A838}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Debug.ActiveCfg = Debug|.NET
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Debug.Build.0 = Debug|.NET
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Release.ActiveCfg = Release|.NET
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Release.Build.0 = Release|.NET
+		{226F247A-ACB7-47D3-BEA5-AC55FF451E43}.Debug.ActiveCfg = Debug|Win32
+		{226F247A-ACB7-47D3-BEA5-AC55FF451E43}.Debug.Build.0 = Debug|Win32
+		{226F247A-ACB7-47D3-BEA5-AC55FF451E43}.Release.ActiveCfg = Release|Win32
+		{226F247A-ACB7-47D3-BEA5-AC55FF451E43}.Release.Build.0 = Release|Win32
+		{6010BAF8-D31B-4ADD-8E1B-9B895EB4A838}.Debug.ActiveCfg = Debug
+		{6010BAF8-D31B-4ADD-8E1B-9B895EB4A838}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

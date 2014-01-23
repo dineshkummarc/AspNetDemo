@@ -1,0 +1,5 @@
+word1 :: Meaning1
+word2 :: Meaning2
+word2(2) :: Meaning3
+word2(3) :: Meaning4
+word3 :: Meaning5

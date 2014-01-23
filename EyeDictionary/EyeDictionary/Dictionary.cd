@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="EyeDictionary.Data.TextDatabase">
+    <Position X="10.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Data\TextDatabase.cs</FileName>
+      <HashCode>AAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDictionary.Data.TextDatabaseModifier">
+    <Position X="8.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Data\TextDatabaseModifier.cs</FileName>
+      <HashCode>AAAAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDictionary.Global.Settings">
+    <Position X="5.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>Global\Settings.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="EyeDictionary.Global.Settings.Dictionary">
+        <TypeIdentifier>
+          <NewMemberFileName>Global\Settings.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EyeDictionary.Global.Settings.TextDatabaseModifier" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Global\Settings.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EyeDictionary.Global.Settings.Form" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Global\Settings.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="EyeDictionary.Core.DictionaryKeyIndexValue" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Core\DictionaryKeyIndexValue.cs</FileName>
+      <HashCode>ABAAAAAAAAAAAAQEAACgAAAAAgAAAAAAAAEgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="IComparable.CompareTo" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EyeDictionary.Core.DictionaryPack">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Core\DictionaryPack.cs</FileName>
+      <HashCode>DFIAAAFQIAAGAAAFAAAAAAQAAAAABAAAQAQAgAAAAAI=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="Level1AutoCompeleteWord" Hidden="true" />
+      <Method Name="Level1SugesstionWords" Hidden="true" />
+      <Method Name="Level2AutoCompeleteWord" Hidden="true" />
+      <Method Name="Level2SugesstionWords" Hidden="true" />
+      <Method Name="Level3AutoCompeleteWord" Hidden="true" />
+      <Method Name="Level3SugesstionWords" Hidden="true" />
+      <Method Name="Level4SugesstionWords" Hidden="true" />
+      <Method Name="Level5SugesstionWords" Hidden="true" />
+      <Method Name="Level6SugesstionWords" Hidden="true" />
+      <Method Name="LoadDictionary" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

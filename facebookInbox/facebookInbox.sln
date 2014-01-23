@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "facebookInbox", ".", "{286B0C7A-0D80-4996-99DE-36846B6223AB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/facebookInbox"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\facebookInbox\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\facebookInbox\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/facebookInbox"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\facebookInbox\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\facebookInbox\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1798"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286B0C7A-0D80-4996-99DE-36846B6223AB}.Debug|.NET.ActiveCfg = Debug|.NET
+		{286B0C7A-0D80-4996-99DE-36846B6223AB}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

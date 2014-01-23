@@ -1,0 +1,6 @@
+Search By Index : Index between (1 to 1999999)
+
+Search By ID : etext1 to  etext1999999
+ 
+Search BY Title: If the Xml contains valid information then give any string 
+		you want to search but don't give common words such as the,in,of etc

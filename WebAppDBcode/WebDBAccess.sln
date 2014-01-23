@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDB", "http://localhost/WebAppDB/WebAppDB.csproj", "{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebSetup", "WebSetup\WebSetup.vdproj", "{2EEFA29B-5600-4EBD-848F-125B53CCE28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Debug.ActiveCfg = Debug|.NET
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Debug.Build.0 = Debug|.NET
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Release.ActiveCfg = Release|.NET
+		{E235D1CC-11A0-4A0D-857C-A0EB11FD9EAA}.Release.Build.0 = Release|.NET
+		{2EEFA29B-5600-4EBD-848F-125B53CCE28B}.Debug.ActiveCfg = Release
+		{2EEFA29B-5600-4EBD-848F-125B53CCE28B}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

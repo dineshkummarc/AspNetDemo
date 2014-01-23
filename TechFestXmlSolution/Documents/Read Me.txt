@@ -1,0 +1,15 @@
+Extract the Zip at C drive 
+
+TO run exe
+
+1) Double click the setup.exe present in the TechFestXmlPackage\TechFestXmlPackage\Debug folder 	
+2)Allow it to store at C:/virtusa/	
+3)Give path of the xml file in the TechFestXmlSolution.exe xml config file
+4) Double click the TechFestXmlSolution.exe  to run the application
+
+TO run the code 
+
+1) Copy the folder TechFestXmlSolution and place in VS 2005 projects folder 
+2)Open the TechFestXmlSolution C# project file in Visual studio 2005
+3)Make sure the xml path given in App.config is correct and you have the xml files in it
+4) Build the solution and Run it 
